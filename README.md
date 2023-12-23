@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Deepanshu and I'm a Developer, from India</h2>
 <!-- Introduction -->
-I'm a tech enthusiast passionate about building innovative solutions and exploring the ever-evolving world of technology. With a year of hands-on experience in TypeScript, Java, Python, and an insatiable appetite for learning, I'm excited about creating cutting-edge software experiences.
+I'm a tech enthusiast passionate about building innovative solutions and exploring the ever-evolving world of technology. With a year of hands-on experience, I'm excited about creating cutting-edge software experiences.
 
 ###
 
