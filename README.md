@@ -14,7 +14,7 @@ I'm a tech enthusiast passionate about building innovative solutions and explori
   <img src="https://profile-counter.glitch.me/deepanshusharma007/count.svg?"  />
 </div> -->
 
-<div>
+<div align="center">
      <img src="https://hits.sh/github.com/deepanshusharma007.svg?label=Profile%20views&color=0e75b6" alt="Profile views" />
 </div>
 
