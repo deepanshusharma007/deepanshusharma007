@@ -6,7 +6,7 @@ I'm a tech enthusiast passionate about building innovative solutions and explori
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/deepanshusharma007/deepanshusharma007/output/snake.svg" alt="Snake animation" />
+   <img src="https://hits.sh/github.com/deepanshusharma007.svg?label=Profile%20views&color=0e75b6" alt="Profile views" />
 
 ###
 
