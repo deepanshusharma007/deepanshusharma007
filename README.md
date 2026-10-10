@@ -10,8 +10,12 @@ I'm a tech enthusiast passionate about building innovative solutions and explori
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://profile-counter.glitch.me/deepanshusharma007/count.svg?"  />
+</div> -->
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=deepanshusharma007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
 ###
